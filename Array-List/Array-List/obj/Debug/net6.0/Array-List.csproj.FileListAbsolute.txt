@@ -1,0 +1,15 @@
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\bin\Debug\net6.0\Array-List.exe
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\bin\Debug\net6.0\Array-List.deps.json
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\bin\Debug\net6.0\Array-List.runtimeconfig.json
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\bin\Debug\net6.0\Array-List.dll
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\bin\Debug\net6.0\Array-List.pdb
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.csproj.AssemblyReference.cache
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.GeneratedMSBuildEditorConfig.editorconfig
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.AssemblyInfoInputs.cache
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.AssemblyInfo.cs
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.csproj.CoreCompileInputs.cache
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.dll
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\refint\Array-List.dll
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.pdb
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\Array-List.genruntimeconfig.cache
+F:\Универ\Прога\Аудиторные лабы\3) Array-List\Array-List\Array-List\obj\Debug\net6.0\ref\Array-List.dll
